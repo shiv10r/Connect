@@ -1,6 +1,6 @@
 # Connect
 Android +Java+FireBase as database 
-Chat app based on java, adroid , and firebase using database Creating a complete chat application with Android Studio and Firebase from scratch
+Chat app based on java, adnroid , and firebase using database Creating a complete chat application with Android Studio and Firebase from scratch
 
 //Feature of the application its function and operation. 1 - Sending and receiving messages instantly with the real-time Firebase Database
 
